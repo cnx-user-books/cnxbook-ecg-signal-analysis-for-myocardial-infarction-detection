@@ -1,0 +1,64 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11600</md:content-id>
+  <md:title>ECG Signal Analysis for Myocardial Infarction Detection</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>559b5aad-89d5-4486-adc8-87e2edeb2813</md:uuid>
+<md:slug>ecg-signal-analysis-for-myocardial-infarction-detection</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m48317"/>
+        
+      
+    
+    
+      <col:module document="m48314"/>
+        
+      
+    
+    
+      <col:module document="m48338"/>
+        
+      
+    
+    
+      <col:module document="m48308"/>
+        
+      
+    
+    
+      <col:module document="m48368"/>
+        
+      
+    
+    
+      <col:module document="m48303"/>
+        
+      
+    
+    
+      <col:module document="m48404"/>
+        
+      
+    
+    
+      <col:module document="m48367"/>
+        
+      
+    
+  </col:content>
+</col:collection>
